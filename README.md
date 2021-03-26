@@ -1,16 +1,11 @@
-### Hi there 👋
-
 <h2> Hey there! I'm Mert.</h2>
-- 🎨 A passionate about the art of computer science.
-
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤖 &nbsp; Aspiring to become a robotics engineer... interested anything that moves by my code! 
+- 🤖 &nbsp; Aspiring to become a robotics engineer... interested anything that moves by my code!
 - 🎓 &nbsp; I'm always open to share my knowledge and passionate about teaching
 - 👯 &nbsp; I’m looking to collaborate on educational projects, robotics and machine learning applications
-- 🤔 &nbsp; I’m looking for help with how to design and animate websites like art pieces 
-
+- 🎨 &nbsp; I’m looking for help with how to design and animate websites like art pieces
 
 <h3>🛠 Tech Stack</h3>
 
