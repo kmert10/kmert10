@@ -24,10 +24,10 @@
 
 [![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmert10&show_icons=true)](https://github.com/kmert10)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://kmert10.github.io/"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-kmert10.github.io/-blue?style=flat-square&logo=google-chrome"> Under Develpoment!</a>
+<a href="https://kmert10.github.io/"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-kmert10.github.io (Under Development)-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mertkarakas/"><img alt="LinkedIn" src="https://img.shields.io/badge/mertkarakas-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mertmkarakas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mertmkarakas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
