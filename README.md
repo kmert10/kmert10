@@ -24,9 +24,6 @@
 <a href="mailto:mertmkarakas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mertmkarakas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [kmert10](https://github.com/kmert10)
- 
-
 <!--
 **kmert10/kmert10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
