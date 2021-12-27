@@ -16,9 +16,6 @@
 - 👀 &nbsp; Curiosity...
 
 <br/>
-
-[![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmert10&show_icons=true)](https://github.com/kmert10)
-
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
