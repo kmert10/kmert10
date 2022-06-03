@@ -1,4 +1,4 @@
-<h2> Hello, nice to meet you! .</h2>
+<h2> Hello, nice to meet you!</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
